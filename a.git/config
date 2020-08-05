@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+[http]
+	sslVerify = false
+[remote "origin"]
+	url = https://github.com/sarikaK945/122GITRepo
+	fetch = +refs/heads/*:refs/remotes/origin/*
